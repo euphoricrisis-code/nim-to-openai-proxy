@@ -72,7 +72,7 @@ const MODEL_MAPPING = {
   'gpt-3.5-turbo': 'nvidia/nemotron-3-super-120b-a12b',
   'gpt-4': 'nvidia/nemotron-3.5-super-vl-120b-a12b',
   'gpt-3.5': 'qwen/qwen3.5-397b-a17b',
-  'gpt-4-turbo': 'moonshotai/kimi-k3',
+  'gpt-4-turbo': 'mistralai/mistral-large-4-1t-a52b',
   'gpt-4o': 'deepseek-ai/deepseek-v4.1-flash',
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
